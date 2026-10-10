@@ -1,0 +1,6 @@
+{
+  "name": "نبض السوق - أداة تحليل وتأكيد قرارات التداول",
+  "description": "منصة تداول وتأكيد قرارات متخصصة تعتمد على المؤشرات الفنية (RSI, MACD, EMA, Volume, S/R) ونظام تقييم Score (0-100) وإدارة المخاطر لمساعدة المتداولين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
